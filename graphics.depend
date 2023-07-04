@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1684259820 source:d:\komy&beso\main.cpp
+	<tchar.h>
+	<windows.h>
+	<vector>
+	<fstream>
+	<iostream>
+	<math.h>
+	<list>
+	<stack>
+	"Line.h"
+	"Circle.h"
+	"Ellipse.h"
+	"Curves.h"
+	"Clipping.h"
+	"Fill.h"
+
+1683863237 d:\komy&beso\line.h
+	"Line.cpp"
+
+1684163146 d:\komy&beso\line.cpp
+	"struct.h"
+
+1684119134 d:\komy&beso\struct.h
+
+1683963059 d:\komy&beso\circle.h
+	"Circle.cpp"
+
+1683964089 d:\komy&beso\circle.cpp
+	"struct.h"
+
+1683851883 d:\komy&beso\ellipse.h
+	"Ellipse.cpp"
+
+1684162757 d:\komy&beso\ellipse.cpp
+
+1684258028 d:\komy&beso\curves.h
+	"Curves.cpp"
+
+1684258421 d:\komy&beso\curves.cpp
+
+1684119167 d:\komy&beso\clipping.h
+	"Clipping.cpp"
+
+1684119549 d:\komy&beso\clipping.cpp
+	"Fill.h"
+
+1683852351 d:\komy&beso\fill.h
+	"Fill.cpp"
+	"Line.h"
+
+1684162920 d:\komy&beso\fill.cpp
+	"struct.h"
+
